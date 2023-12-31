@@ -1,0 +1,19 @@
+.odd-num {
+    background-color: rgb(218, 101, 149);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+#num-two {
+    color: blue;
+    font-size: 36px;
+}
+
+#num-three {
+    font-size: 24px;
+}
+
+#num-four {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
